@@ -41,3 +41,5 @@ void spi_slave_init()
     SSPEN = 1;  // enable serial port and configure SCK, SDO, and SCL as serial port pins    
 }
 
+//void spi_
+
